@@ -1,0 +1,20 @@
+a = dlmread("Tower.txt")
+a = dlmread("Tower.txt")
+a = dlmread("Tower.txt");
+# Octave 3.4.3, Tue Sep 16 12:28:54 2014 EDT <qchu3@jinx-login>
+a = dlmread(bTower.txt);
+a = dlmread("bTower.txt")
+a = dlmread("bTower.txt");
+b = fft2(a)
+q
+# Octave 3.4.3, Tue Sep 16 12:30:38 2014 EDT <qchu3@jinx-login>
+dlmread
+vim Tower.txt
+exit
+# Octave 3.4.3, Thu Sep 18 22:04:29 2014 EDT <qchu3@jinx-login>
+a = dlmread("tower.txt")
+a = dlmread("tower.txt");
+b = fft(a);
+c =fft(b)
+quit
+# Octave 3.4.3, Thu Sep 18 22:06:45 2014 EDT <qchu3@jinx-login>

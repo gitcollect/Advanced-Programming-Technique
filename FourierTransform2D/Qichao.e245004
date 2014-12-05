@@ -1,0 +1,2 @@
+[jinx4:25565] Error: unknown option "--tree-spawn"
+bash: line 1: 25565 Segmentation fault      (core dumped) /usr/lib64/openmpi/bin/orted -mca ess env -mca orte_ess_jobid 533266432 -mca orte_ess_vpid 1 -mca orte_ess_num_procs 2 -mca orte_hnp_uri "533266432.0;tcp://130.207.126.101:54180" --tree-spawn -mca plm rsh
